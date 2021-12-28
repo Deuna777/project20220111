@@ -1,2 +1,2 @@
-web: gunicorn twelvestars:app
+web: gunicorn project20220111:app
 clock: python movie_clock.py
